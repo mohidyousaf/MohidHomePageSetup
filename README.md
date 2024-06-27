@@ -1,21 +1,30 @@
-# MohidHomePageSetup
 <h1 align="center">Hi 👋, I'm Mohid Yousaf</h1>
 <h3 align="center">Developer, Teacher, and Gem Collector</h3>
 
-Welcome
+<h2>Welcome</h2>
+<p>
 As a full-stack developer with over three years of experience, I specialize in developing mobile applications, website development, and backend systems. I am highly proficient in RESTful APIs development and database integration using a variety of technologies including MongoDB, MySQL, Firebase, Neo4J, and GraphQL, as well as cloud services such as AWS, Google Cloud, and Heroku. Additionally, I have experience working with Git for version control, UI/UX design, and Agile development methodologies. During my career, I have managed central backends for multiple web portals and apps for product-based companies. I have deep experience with graph-based and relational/non-relational database systems such as Neo4j, Postgres, and Firebase. I have written raw Cypher queries for database interactions, enabling me to deliver effective and efficient solutions quickly. I have also completed numerous freelancing projects with a solid architecture, working with both Flutter and React for front-end development. I take pride in my communication and collaboration skills and ensure effective collaboration with clients and teams to bring their ideas to life.
+</p>
 
-AsaanRozgar Flutter App
-Developed an accounting application targeting small startups which fulfills all their major accounting needs without being overly complicated and overwhelming like most other accounting software. It maintains payment records of parties, managing inventory, expenses and assets, and generating reports and forecasts to help business owners run their startups efficiently. https://github.com/mohidyousaf/Asaan-Rozgar
+<h2>AsaanRozgar Flutter App</h2>
+<p>
+Developed an accounting application targeting small startups which fulfills all their major accounting needs without being overly complicated and overwhelming like most other accounting software. It maintains payment records of parties, managing inventory, expenses and assets, and generating reports and forecasts to help business owners run their startups efficiently. [Asaan-Rozgar](https://github.com/mohidyousaf/Asaan-Rozgar)
+</p>
 
-Balti Flutter App (Flutter, Firebase, AWS, MongoDB)
-https://github.com/mohidyousaf/balti
+<h2>Balti Flutter App (Flutter, Firebase, AWS, MongoDB)</h2>
+<p>
+[Balti](https://github.com/mohidyousaf/balti)
+</p>
 
-PetsWala Flutter App (Flutter, MongoDB, Firebase)
-Developed an all-in-one platform for pet owners, veterinary doctors, pet shops, and rescue centers, where they can communicate and perform relevant functionalities. https://github.com/mohidyousaf/Petswala
+<h2>PetsWala Flutter App (Flutter, MongoDB, Firebase)</h2>
+<p>
+Developed an all-in-one platform for pet owners, veterinary doctors, pet shops, and rescue centers, where they can communicate and perform relevant functionalities. [Petswala](https://github.com/mohidyousaf/Petswala)
+</p>
 
-City Swap Web Application (React, Firebase, Heroku, MongoDB)
-This platform allows you to swap homes with other travelers, so you can enjoy a new city without the cost of expensive accommodations. But even if you can’t find a home swap, CitySwapp makes it easy to find and sublease affordable properties in your destination city. And if you want to sublease your own home while you are away, CitySwapp can help you find trustworthy renters. [Design repo API](https://github.com/mohidyousaf/CitySwap)
+<h2>City Swap Web Application (React, Firebase, Heroku, MongoDB)</h2>
+<p>
+This platform allows you to swap homes with other travelers, so you can enjoy a new city without the cost of expensive accommodations. But even if you can’t find a home swap, CitySwapp makes it easy to find and sublease affordable properties in your destination city. And if you want to sublease your own home while you are away, CitySwapp can help you find trustworthy renters. [CitySwapp](https://github.com/mohidyousaf/CitySwapp)
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
